@@ -36,4 +36,4 @@ You can configure the server using environment variables:
 - `MONGODB_URI`: Connection string for MongoDB.
 
 ---
-*Developed by Iván Fernández - 2026*
+*Developed by Iván Moral - 2026*
